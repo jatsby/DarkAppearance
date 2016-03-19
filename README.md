@@ -5,9 +5,9 @@
   
   
 ####Resources
-* Intro Tutorial, [*ThemeEngine for the rest of us*](https://www.reddit.com/r/apple/comments/3xhdwg/themeengine_for_the_rest_of_us/)
-
-
+* Intro Tutorial, [*ThemeEngine for the rest of us*](https://www.reddit.com/r/apple/comments/3xhdwg/themeengine_for_the_rest_of_us/)  
+  
+  
 ####What's inside?  
 * **themeKey.md** A markdown file that keeps track of which asset in a .car file corresponds to which UI element in OS X (still in-progress).
 * **OS X Theming** A Sketch project for experimenting with colors using OS X UI mockups (still in-progress).
