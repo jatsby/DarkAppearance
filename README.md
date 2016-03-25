@@ -10,8 +10,9 @@
   
 ####What's inside?  
 * **themeKey.md** A markdown file that keeps track of which asset in a .car file corresponds to which UI element in OS X (still in-progress).
-* **OS X Theming** A Sketch project for experimenting with colors using OS X UI mockups (still in-progress).
-* **ThemeFuelDark.car** Hopefully the world's first *complete* dark theme for OS X (still in-progress, not in this Github project yet!).
+* **OS X Theming** A Sketch project for experimenting with colors using OS X UI mockups (still in progress).
+* **DarkSystemAppearance.car** Hopefully the world's first *complete* dark theme for OS X (still in progress).
+* **ColorfulSystemAppearance.car** Each asset has a unique color, used to visually distinguish invidual components in OS X (still in progress).
 
   
   
