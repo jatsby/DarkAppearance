@@ -22,4 +22,4 @@
 #####for assets listed under f(x) section of ThemeEngine  
   
   
-* Menubar Image > normal regular (the first one) = Apple logo in menu bar, arrows in menu bar dropdown menus, only affects Apple Logo when Finder is selected program. Not sure how to change Apple logo universally.  
+* Menubar Image > normal regular (the first one) = Apple logo in menu bar, arrows in menu bar dropdown menus, only affects Apple Logo when Finder is selected program. Apple logo is located in Assets.car in same folder as SystemAppearance.car (thanks, Alex!).
