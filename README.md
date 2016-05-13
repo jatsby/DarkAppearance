@@ -6,6 +6,7 @@
   
 ####Resources
 * Intro Tutorial, [*ThemeEngine for the rest of us*](https://www.reddit.com/r/apple/comments/3xhdwg/themeengine_for_the_rest_of_us/)  
+* Download ThemeEngine [*here*](https://github.com/alexzielenski/ThemeEngine/releases)
   
   
 ####What's inside?  
