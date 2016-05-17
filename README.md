@@ -23,7 +23,7 @@
   
   
 ####Tips
-* If you have the means, tweak themes with a VM or spare Mac/Hackintosh. This way you can keep SIP enabled and should you mess something up, it's not a huge deal.
+* If you have the means, tweak themes with a spare Mac/Hackintosh. This way you can keep SIP enabled and should you mess something up, it's not a huge deal. NOTE: OS X VMs don't have hardware acceleration, and therefore Cocoa won't have transparency effects.
   
  
 
