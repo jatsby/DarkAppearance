@@ -18,4 +18,13 @@
   
   
 ####How can I help?
-* **themeKey.md** Figuring out what all the assets in SystemAppearance.car correspond to is Goal #1. We can't make a complete theme without knowing which assets correspond to which UI elements in OS X. As far as we know, the only way to figure it all out is by trial and error by changing asset colors in ThemeEngine and restarting apps/Finder (*killall Finder* in Terminal) to see what changes. Just follow the format of themeKey.md!
+* **themeKey.md** Figuring out what all the assets in SystemAppearance.car correspond to is Goal #1. We can't make a complete theme without knowing which assets correspond to which UI elements in OS X. As far as we know, the only way to figure it all out is by trial and error by changing asset colors in ThemeEngine and restarting apps/Finder (*killall Finder* in Terminal) to see what changes. Just follow the format of themeKey.md!  
+  
+  
+  
+####Tips
+* If you have the means, tweak themes with a VM or spare Mac/Hackintosh. This way you can keep SIP enabled and should you mess something up, it's not a huge deal.
+  
+ 
+
+ 
