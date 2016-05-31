@@ -10,7 +10,7 @@
   
   
 
-###Get a feel for the Dark
+####Get a feel for the Dark
 * Google Chrome Canary's Incognito Mode is a quick and easy way to see how an all-dark OS X window looks.  
   
   
