@@ -6,7 +6,13 @@
   
 ####Resources
 * Intro Tutorial, [*ThemeEngine for the rest of us*](https://www.reddit.com/r/apple/comments/3xhdwg/themeengine_for_the_rest_of_us/)  
-* Download ThemeEngine [*here*](https://github.com/alexzielenski/ThemeEngine/releases)
+* Download ThemeEngine [*here*](https://github.com/alexzielenski/ThemeEngine/releases)  
+  
+  
+
+###Get a feel for the Dark
+* Google Chrome Canary's Incognito Mode is a quick and easy way to see how an all-dark OS X window looks.  
+  
   
   
 ####What's inside?  
